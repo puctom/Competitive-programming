@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "algorithm": "cpp",
+    "xtree": "cpp",
+    "unordered_set": "cpp",
+    "set": "cpp",
+    "xhash": "cpp",
+    "utility": "cpp",
+    "iostream": "cpp",
+    "xiosbase": "cpp",
+    "ostream": "cpp"
+  }
+}
